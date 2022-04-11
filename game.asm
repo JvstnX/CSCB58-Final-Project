@@ -14,7 +14,7 @@
 # 
 # Which milestones have been reached in this submission? 
 # (See the assignment handout for descriptions of the milestones) 
-# - Milestone 1/2/[3] (choose the one the applies) 
+# - Milestone 3
 # 
 # Which approved features have been implemented for milestone 3? 
 # (See the assignment handout for the list of additional features) 
@@ -27,13 +27,13 @@
 # 7. Jet Pack [2 marks] 
 # 
 # Link to video demonstration for final submission: 
-# - (insert YouTube / MyMedia / other URL here). Make sure we can view it! 
+# - https://play.library.utoronto.ca/watch/a1211b681cb9c398d7c0964c08f96caf. Make sure we can view it! 
 # 
 # Are you OK with us sharing the video with people outside course staff? 
-# - yes / no / yes, and please share this project github link as well! 
+# - yes, and please share this project github link as well!
 # 
 # Any additional information that the TA needs to know: 
-# - (write here, if any) 
+# - Github project link: https://github.com/JvstnX/CSCB58-Final-Project
 # 
 ##################################################################### 
 # Bitmap display starter code 

@@ -27,13 +27,14 @@
 # 7. Jet Pack [2 marks] 
 # 
 # Link to video demonstration for final submission: 
-# - https://play.library.utoronto.ca/watch/a1211b681cb9c398d7c0964c08f96caf. Make sure we can view it! 
+# - https://play.library.utoronto.ca/watch/a1211b681cb9c398d7c0964c08f96caf
 # 
 # Are you OK with us sharing the video with people outside course staff? 
 # - yes, and please share this project github link as well!
 # 
 # Any additional information that the TA needs to know: 
-# - Github project link: https://github.com/JvstnX/CSCB58-Final-Project
+# - Github project link: 
+# https://github.com/JvstnX/CSCB58-Final-Project
 # 
 ##################################################################### 
 # Bitmap display starter code 
